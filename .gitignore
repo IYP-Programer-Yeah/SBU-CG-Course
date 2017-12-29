@@ -301,3 +301,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+OpenGL Slides/Drawing.pptx
+OpenGL Slides/RBOs&FBOs.pptx
+OpenGL Slides/OpenGL-4_0-Programmable-Shader-Pipeline1.png
+*.txt
+OpenGL Slides/Unifroms.pptx
+OpenGL Slides/MRT.pptx
+OpenGL Slides/Shading.pptx
+OpenGL Slides/Textures.pptx
+OpenGL Slides/UBOs.pptx
